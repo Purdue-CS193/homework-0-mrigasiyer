@@ -1,4 +1,4 @@
-#Mrigas Iyer's First CS193 Homework
+# Mrigas Iyer's First CS193 Homework
 
 **Some of my favorite things about CS193 are:**
 - The usefulness of the lectures
