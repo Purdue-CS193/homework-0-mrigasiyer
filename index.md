@@ -25,6 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+#HelloWorld
+- HelloPurdue
+1. Item number 1
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
